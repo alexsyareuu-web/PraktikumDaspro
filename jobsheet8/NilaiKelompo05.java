@@ -8,7 +8,7 @@ public class NilaiKelompo05 {
 
         int i = 1;
         while (i <= 6) {
-            System.out.println("\nNilai Kelompok " + i);
+            System.out.println("\nnilai Kelompok " + i);
             
             totalNilai = 0;
             for (int j = 1; j <= 5; j++) {
